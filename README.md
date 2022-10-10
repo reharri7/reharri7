@@ -39,9 +39,10 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reharri7&theme=tokyonight)](https://git.io/streak-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reharri7)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reharri7&theme=tokyonight)](https://git.io/streak-stats)
+
+### :fire: Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reharri7)](https://github.com/anuraghazra/github-readme-stats)
 
 
